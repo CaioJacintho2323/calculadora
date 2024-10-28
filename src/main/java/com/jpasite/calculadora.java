@@ -1,5 +1,8 @@
 package com.jpasite;
 
+/**
+ * calculadora bem tranquila para treinar logica e cada vez melhorar no desenvolvimento dele
+ */
 public class calculadora {
     public double somar(double numeroUm, double numeroDois) {
         return numeroUm + numeroDois;
