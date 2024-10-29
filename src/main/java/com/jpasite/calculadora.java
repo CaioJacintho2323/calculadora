@@ -7,6 +7,9 @@ public class calculadora {
     public double somar(double numeroUm, double numeroDois) {
         return numeroUm + numeroDois;
     }
+    public double subtrair(double numeroUm, double numeroDois) {
+        return numeroUm - numeroDois;
+    }
 
     public double divisao(double numeroUm, double numeroDois) {
         if (numeroDois == 0){
